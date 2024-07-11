@@ -10,9 +10,17 @@ Welcome to the Spotify Clone project! This project replicates the design and lay
 
 ## Features
 Responsive design,
+
+
 Navigation bar with links to Home, Search, and Your Library,
+
+
 Playlist view with album artwork and song details,
+
+
 Styled music player with controls,
+
+
 Sections for Recently Played, Trending Now, and Featured Charts.
 
 ## Tech-stack
@@ -46,9 +54,18 @@ The music player is styled to look similar to Spotify's player, with controls fo
 ### Contributions are welcome! Please follow these steps to contribute:
 
 Fork the repository.
+
+
 Create a new branch: git checkout -b feature
+
+
+
 Make your changes and commit them: git commit -m 'Add some feature'
+
+
 Push to the branch: git push origin feature
+
+
 Open a pull request.
 
 ## Contact
