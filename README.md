@@ -25,6 +25,8 @@ Sections for Recently Played, Trending Now, and Featured Charts.
 
 ## Tech-stack
 HTML for structuring the content
+
+
 CSS for styling and layout
 
 ## Getting started
