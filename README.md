@@ -9,11 +9,11 @@ Welcome to the Spotify Clone project! This project replicates the design and lay
 ### Contact
 
 ## Features
-Responsive design
-Navigation bar with links to Home, Search, and Your Library
-Playlist view with album artwork and song details
-Styled music player with controls
-Sections for Recently Played, Trending Now, and Featured Charts
+Responsive design,
+Navigation bar with links to Home, Search, and Your Library,
+Playlist view with album artwork and song details,
+Styled music player with controls,
+Sections for Recently Played, Trending Now, and Featured Charts.
 
 ## Tech-stack
 HTML for structuring the content
@@ -24,6 +24,8 @@ CSS for styling and layout
 To run this project, you only need a web browser.
 ### Clone the repository:
 git clone https://github.com/garvkhullar1121/spotify.git
+
+
 cd spotify-clone
 ### Open the project:
 Open the spotify.html file in your preferred web browser to view the Spotify clone.
