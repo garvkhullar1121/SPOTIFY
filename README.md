@@ -77,3 +77,5 @@ garvkhullar1121@gmail.com
 
 ### Git-hub :
 garvkhullar1121
+
+## Thank you for using the Spotify Clone! Enjoy exploring the design and layout.
